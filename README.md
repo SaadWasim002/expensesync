@@ -1,4 +1,4 @@
-# Daily-Expense-Tracker-Using-PHP-and-MySQL.
+# ExpenseSync.
 
 Daily Expense Tracker System is a web-based application and this application is used to manage the application user‘s daily expenses in a more efficient and manageable way. By using this application we can reduce the manual calculations for their daily expenses and keep the track of the expenditure. In this application, the user can provide his/her expense to calculate his/her total expenses per day and these results will be stored for a unique user.
 
